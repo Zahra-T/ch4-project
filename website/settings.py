@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-#tuxpml3+^mn9d3rq0y*3^@q9=--7z6s=g5j&p%^r5gt_a8pi3
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['zahra-cv.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['zahra-cv.herokuapp.com','zahra-cv-one.herokuapp.com','127.0.0.1']
 
 
 # Application definition
